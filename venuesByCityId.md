@@ -1,6 +1,6 @@
 ## Venues By City ID
 
-Use the venue by city ID endpoint to get a list of venues in a particular city:
+Use the venue by city ID endpoint to get a list of venues in a particular city. You can use this to setup a page similar to this one on the Tablelist website: https://www.tablelist.com/nyc/discover/.
 
 ### Request
 

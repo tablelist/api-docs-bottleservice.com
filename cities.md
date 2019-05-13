@@ -1,6 +1,6 @@
 ## Cities
 
-Use the cities endpoint to get a list of all cities that are available on the Tablelist Platform:
+Use the cities endpoint to get a list of all cities that are available on the Tablelist Platform. You can use this to create a page similar to the Tablelist homepage where we list all our cities: https://www.tablelist.com/.
 
 ### Request
 

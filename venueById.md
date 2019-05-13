@@ -1,6 +1,6 @@
 ## Venues By ID
 
-Use the venue by ID endpoint to get a particular venue:
+Use the venue by ID endpoint to get a particular venue. You can use this to setup a page similar to this one on the Tablelist site: https://www.tablelist.com/v/e0133deb5754ef9f.
 
 ### Request
 
